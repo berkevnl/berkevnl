@@ -34,4 +34,5 @@ I am a first-year **Software Engineering** student focused on building a rock-so
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/efeberkeaglik](https://linkedin.com/in/efeberkeaglik)
+- [LinkedIn](https://linkedin.com/in/efeberkeaglik)
+- [Email](mailto:berkevanilla@gmail.com)
