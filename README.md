@@ -1,6 +1,6 @@
 # Hi, I'm Berke! 👋
 
-### Software Engineering Student at Samsun University
+### 🔍 About Me
 
 I am a first-year **Software Engineering** student focused on building a rock-solid foundation in computer science. My philosophy is to look beyond the surface—I don't just want to use tools; I want to understand the architectural decisions and system logic that make them scale.
 
