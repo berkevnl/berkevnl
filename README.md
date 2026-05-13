@@ -18,7 +18,7 @@ I am a first-year **Software Engineering** student focused on building a rock-so
 
 | Category | Skills & Interests |
 | :--- | :--- |
-| **Languages** | Python, C++ (Learning) |
+| **Languages** | Python, C, C++ (Learning) |
 | **Specialization** | System Logic, OOP, Data Structures & Algorithms |
 | **Platforms** | Steam Ecosystem, Linux, Git/GitHub |
 | **AI** | LLMs, RAG, Modern AI Tools |
@@ -27,8 +27,22 @@ I am a first-year **Software Engineering** student focused on building a rock-so
 
 ### 📈 GitHub Statistics
 
-![Berke's Stats](https://github-readme-stats.vercel.app/api?username=berkevnl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkevnl&layout=compact&theme=tokyonight)
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr border="0">
+      <!-- İstatistik Kartı -->
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkevnl&show_icons=true&theme=borg&count_private=true" height="195" />
+      </td>
+      <!-- İki kart arası mesafe -->
+      <td width="15" border="0" style="border: none;"></td>
+      <!-- Diller Kartı -->
+      <td align="center" valign="middle" border="0" style="border: none;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkevnl&layout=compact&theme=borg" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
